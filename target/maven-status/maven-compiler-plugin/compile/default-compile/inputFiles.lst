@@ -1,0 +1,9 @@
+/home/johan/Documentos/Patterns/src/main/java/edu/eci/cvds/patterns/shapes/shape.java
+/home/johan/Documentos/Patterns/src/main/java/edu/eci/cvds/patterns/shapes/concrete/Pentagon.java
+/home/johan/Documentos/Patterns/src/main/java/edu/eci/cvds/patterns/shapes/concrete/Quadrilateral.java
+/home/johan/Documentos/Patterns/src/main/java/edu/eci/cvds/patterns/shapes/concrete/Triangle.java
+/home/johan/Documentos/Patterns/src/main/java/edu/eci/cvds/patterns/shapes/ShapeFactory.java
+/home/johan/Documentos/Patterns/src/main/java/edu/eci/cvds/patterns/App.java
+/home/johan/Documentos/Patterns/src/main/java/edu/eci/cvds/patterns/shapes/RegularShapeType.java
+/home/johan/Documentos/Patterns/src/main/java/edu/eci/cvds/patterns/shapes/concrete/Hexagon.java
+/home/johan/Documentos/Patterns/src/main/java/edu/eci/cvds/patterns/shapes/ShapeMain.java
