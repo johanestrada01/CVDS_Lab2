@@ -1,4 +1,4 @@
 # LAB 2 
 ## Integrantes
-*Ana Maria Duran Burgos
-*Johan Alejandro EStrada Pastran
+* Ana Maria Duran Burgos
+* Johan Alejandro Estrada Pastran
